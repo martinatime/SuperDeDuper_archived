@@ -15,5 +15,10 @@
 			<attribute name="javadoc_location" value="jar:platform:/resource/SuperDeDuper/libdoc/junit-4.11-javadoc.jar!/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar" sourcepath="libsrc/commons-lang3-3.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/SuperDeDuper/libdoc/commons-lang3-3.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
